@@ -1,0 +1,5 @@
+{
+  "Cloud": ["AWS", "GCP", "Azure"],
+  "Backend": ["Node.js", "Django", "Flask"],
+  "Data": ["SQL", "Spark", "Pandas"]
+}
